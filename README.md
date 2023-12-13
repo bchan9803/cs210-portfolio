@@ -1,4 +1,4 @@
-# Grocery Tracking Program (Project Three) #
+# Grocery Tracking Program #
 
 
 ### Summarize the project and what problem it was solving.
